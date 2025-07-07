@@ -1,0 +1,1 @@
+//write a funtion to print nth term of fibonacci squence,it is same as 35

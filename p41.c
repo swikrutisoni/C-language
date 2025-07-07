@@ -1,0 +1,1 @@
+//write a programm to enter price of three times  and printbtheirnfinal cost with gst 
